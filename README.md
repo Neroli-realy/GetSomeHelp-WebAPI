@@ -34,3 +34,4 @@ Simple API for helping Old People to ask for help in dialy tasks Wrote in ASP.NE
 * [preventing-cross-site-request-forgery-csrf-attacks](https://docs.microsoft.com/en-us/aspnet/web-api/overview/security/preventing-cross-site-request-forgery-csrf-attacks)
 * [MVC](https://docs.microsoft.com/en-us/aspnet/mvc/)
 * [ASPNet core Web-API](https://docs.microsoft.com/en-us/aspnet/web-api/)
+* 
